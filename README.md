@@ -2,18 +2,21 @@
 Ceci est un sig pour la gestion d'un patrimoine arboré d'une commune.
 
 # Préparation des dossiers
+## QGis_gestion_arbres
 Le dossier QGis_gestion_arbres contient le Qgis et le fichier externe des images.
 C'est ici que vous entrerez vos images. Laissez l'arborescence telle quelle.
 
+## Base de données
 Le dossier Base de données contient un backup de la base de données "gestion_arbres". 
 Il faut la charger sur pgadmin (par ex.) en lui donnant ce nom.
 
+## infoarbre
 Le dossier infoarbre est le dossier du plugin QGis InfoArbre. Il faut aller le placer dans les dossiers plugins de votre QGis.
 Par exemple à l'emplacement: C:\Users\Votre_UserName\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
 Dans le fichier InfoArbre.py, il faut modifier plusieurs choses: 
-  -A la ligne 37, indiquez le chemin du dossier QGis_gestion_arbres.
-  -Aux lignes 43 et 52, indiquez vos user et mot de passes pour accéder à la base de données. 
-   Actuellement il s'agit de user=postgres et password=postgres.
+-A la ligne 37, indiquez le chemin du dossier QGis_gestion_arbres.
+-Aux lignes 43 et 52, indiquez vos user et mot de passes pour accéder à la base de données. 
+Actuellement il s'agit de user=postgres et password=postgres.
 
 # Utilisation du projet QGis - fonctionnalités:
 
