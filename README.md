@@ -13,7 +13,6 @@ Par exemple à l'emplacement: C:\Users\Votre_UserName\AppData\Roaming\QGIS\QGIS3
 Dans le fichier InfoArbre.py, il faut modifier plusieurs choses: 
 <br>-A la ligne 37, indiquez le chemin du dossier QGis_gestion_arbres.
 <br>-Aux lignes 43 et 52, indiquez vos user et mot de passe pour accéder à la base de données. 
-<br>Actuellement il s'agit de user=postgres et password=postgres.
 
 # Utilisation du projet QGis - fonctionnalités:
 
