@@ -1,6 +1,10 @@
 # gestion_arbres
 Ceci est un Sig pour la gestion d'un patrimoine arboré d'une commune.
 
+Le dossier QGis_gestion_arbres est le dossier qui contient le QGis, la base de données et un dossier image.
+Le dossier infoarbre est le dossier du plugin.
+
+
 # Utilisation du projet QGis - fonctionnalités:
 
 ## 1: Consulter les attributs et interventions liées à un arbre
