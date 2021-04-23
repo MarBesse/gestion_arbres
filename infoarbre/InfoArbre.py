@@ -34,7 +34,7 @@ import os.path
 from qgis.utils import *
 
 #position de votre dossier QGis. A CHANGER:
-chemin_dossierQGis= 'D:\\Documents\\HEIG-VD\\COURS-S4\\SIG4\\QGis_gestion_arbres\\'
+chemin_dossierQGis= 'C:\\chemin\\où\\se\\trouve\\QGis_gestion_arbres\\'
 #--------------------------------------------------------------------------------------------
 #DATABASE
 #requêtes sur la database
