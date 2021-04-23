@@ -9,8 +9,8 @@ Le dossier Base de données contient un backup de la base de données "gestion_a
 Il faut la charger sur pgadmin (par ex.) en lui donnant ce nom.
 
 Le dossier infoarbre est le dossier du plugin QGis InfoArbre. Il faut aller le placer dans les dossiers plugins de votre QGis.
-Par exemple à l'emplacement: C:\Users\Votre_UserName\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
-Dans le fichier InfoArbre.py, il faut modifier plusieurs choses: 
+Par exemple à l'emplacement: "C:\Users\Votre_UserName\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins"
+<br>Dans le fichier InfoArbre.py, il faut modifier plusieurs choses: 
 <br>-A la ligne 37, indiquez le chemin du dossier QGis_gestion_arbres.
 <br>-Aux lignes 43 et 52, indiquez vos user et mot de passe pour accéder à la base de données. 
 
