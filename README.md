@@ -1,7 +1,7 @@
 # gestion_arbres
 Ceci est un Sig pour la gestion d'un patrimoine arboré d'une commune.
 
-# utilisation du projet QGis - fonctionnalités:
+# Utilisation du projet QGis - fonctionnalités:
 
 ## 1: Consulter les attributs et interventions liées à un arbre
 -Sélectionner la couche Martigny_centre (couche qui contient les arbres)
